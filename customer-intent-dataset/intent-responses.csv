@@ -1,0 +1,29 @@
+,Intent,Response
+0,cancel_order,Your order can be canceled within 24 hours of placement. Please visit your order page or contact support to proceed.
+1,change_order,"To make changes to an existing order, please go to your order summary and click 'Edit Order' or reach out to support."
+2,change_shipping_address,"If your order hasn't shipped yet, you can change the address under 'My Orders'. Otherwise, contact support."
+3,check_cancellation_fee,Orders canceled after processing may incur a cancellation fee. Please check your order terms for details.
+4,check_invoice,Your invoice can be found in your account under the 'Orders' section. Click on the specific order to download it.
+5,check_payment_methods,"We accept credit/debit cards, PayPal, and bank transfers. You can view all options at checkout."
+6,check_refund_policy,We offer refunds within 30 days of delivery. Items must be unused and in original packaging.
+7,complaint,"We're sorry for the inconvenience. Please describe your issue, and our team will investigate it immediately."
+8,contact_customer_service,Our customer service team is available 24/7 via live chat or email at support@example.com.
+9,contact_human_agent,Connecting you to a human agent... please wait a moment while we transfer your chat.
+10,create_account,"To create an account, click 'Sign Up' on the top right corner and fill in your details."
+11,delete_account,"To delete your account, go to Account Settings > Delete Account. Note that this action is irreversible."
+12,delivery_options,"We offer standard, express, and same-day delivery options in select areas. You can choose one during checkout."
+13,delivery_period,Standard delivery takes 3–5 business days. Express delivery options are also available at checkout.
+14,edit_account,"You can edit your profile, contact info, and preferences in your account settings."
+15,get_invoice,You can get your invoice by logging into your account and navigating to the 'Invoices' section.
+16,get_refund,"To request a refund, go to your order history, select the item, and click 'Request Refund'."
+17,newsletter_subscription,You can subscribe to our newsletter in your profile settings or at the bottom of our homepage.
+18,payment_issue,"If you're experiencing issues with payment, please verify your payment details or try a different method."
+19,place_order,"You can place an order by browsing our products, adding them to your cart, and completing the checkout process."
+20,recover_password,Click 'Forgot Password?' on the login page to reset your password. Follow the instructions in the email.
+21,registration_problems,"If you're facing issues registering, ensure all required fields are filled and try again. Contact support if the problem persists."
+22,review,We'd love your feedback! You can leave a review on the product page or through the link we sent via email after your purchase.
+23,set_up_shipping_address,You can set up your shipping address under your profile in 'Shipping Information'.
+24,switch_account,Please log out of your current session and log in with the credentials of the other account you'd like to use.
+25,track_order,You can track your order using the tracking link sent to your email or from your account dashboard under 'My Orders'.
+26,track_refund,Refunds are usually processed within 5–7 business days. You can track your refund status under 'My Orders'.
+27,greet,Hello! How can I help you today?
